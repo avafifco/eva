@@ -44,5 +44,5 @@ function logout(){
   firebase.auth().signOut();
 }
 function Redirect() {
-               window.location = "https://botsnlp.github.io/voiceinterface/conversation.html";
+               window.location = "https://avafifco.github.io/dashboard/";
             }
